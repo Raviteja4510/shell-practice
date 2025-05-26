@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "trump:: hey musk,hoe are you?"
-echo "musk:: hello trump,Ima fine.how are you doing"
-echo "trump:: I am fine too. what's up?"
-echo "musk:: Nothing, just going to Mars now, will you come?"
-echo "trump:: sorry,you carry on! I will come once you came back"
+echo "Trump:: hey Musk,hoe are you?"
+echo "Musk:: hello Trump,Ima fine.how are you doing"
+echo "Trump:: I am fine too. what's up?"
+echo "Musk:: Nothing, just going to Mars now, will you come?"
+echo "Trump:: sorry,you carry on! I will come once you came back"
